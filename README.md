@@ -49,6 +49,8 @@ Run backend server
 python manage.py runserver
 Run Frontend server
 npm start
+
+<pre>
 List of major technologies used
 Django
 React
@@ -57,6 +59,7 @@ MySql changed to sqlite for development, and Postgres for production
 Django Rest Framework
 Redux
 Material-UI
+
 List of Things to do
 Build a restful api with Django
 Start a simple template with React
@@ -118,3 +121,4 @@ Add Real time chart support
 Add multi symbol support on a single chart
 Improve auto logout alert UI
 Improve overall styling
+</pre>
